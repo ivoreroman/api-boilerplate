@@ -1,0 +1,4 @@
+-r common.txt
+tox==2.9.1
+pytest==3.2.3
+gunicorn==19.7.1
